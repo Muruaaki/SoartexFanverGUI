@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Smooth and Clean (Gui_fix)",
+    "pack_format": 64,
+    "supported_formats": {
+      "min_inclusive": 8,
+      "max_inclusive": 64
+    }
+  },
+  "meta": {
+    "game_version": "1.21.7"
+  }
+}
